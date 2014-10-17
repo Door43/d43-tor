@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tor:home|Door43 (tor)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tor|d43-tor repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tor/archive/master.zip|d43-tor.zip]]
+
+**Recent Changes**
+{{changes>ns = tor}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tor|Ethnologue data]]
+
